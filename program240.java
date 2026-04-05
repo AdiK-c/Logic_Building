@@ -1,0 +1,16 @@
+import java.util.*;
+
+class program240
+{
+    public static void main(String A[])
+    {
+        Scanner sObj = new Scanner(System.in);
+
+        System.out.println("Enter Your Name : ");
+        String str =sObj.nextLine();
+
+        System.out.println("Hello : "+str);
+
+
+    }
+}
